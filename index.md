@@ -15,18 +15,18 @@ hsieun01@gmail.com
 
 
 ##  Projects
-### ICU 환자 상태 예측 모델
+### ''ICU 환자 상태 예측 모델''
 - 기술 스택: PyTorch, LSTM, SQL 등
 - 환자 생체 신호 시계열 데이터 분석
 - 중환자 상태 악화 예측 모델 개발
 - 실시간 모니터링 시스템 설계
-- 프로젝트 GitHub 주소: https://github.com/hsieun01/patient_state
+- [프로젝트 GitHub 주소](https://github.com/hsieun01/patient_state).
 
 ### 의료 텍스트 NLP 분석
 - 기술 스택: BioBERT, NLP
 - 의무 기록 텍스트에서 질병 키워드 추출
 - 의료 문서 자동 분류 모델 구축
-- 프로젝트 GitHub 주소: https://github.com/hsieun01/biotext
+- [프로젝트 GitHub 주소](https://github.com/hsieun01/biotext).
 
 ## Certification
 - ADsP
